@@ -1,0 +1,2 @@
+# BugsHoopoe
+In diesem Geschäftsszenario verfügt die MRVL Company über mehrere Projekte, die rechtzeitig abgeschlossen werden müssen, damit das Unternehmen rentabel ist. Jeder versäumte Projekttermin führt zu Einnahmeverlusten. Die Projektleiter des Unternehmens verwenden verschiedene Methoden, um Probleme (issues) zu verfolgen. darunter das manuelle Aufzeichnen von Status in Notizbüchern, das Organisieren von Problemen in Textdokumenten und das Kategorisieren von Problemen (issues) mithilfe von Tabellenkalkulationen. 
